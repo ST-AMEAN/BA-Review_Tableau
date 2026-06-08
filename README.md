@@ -7,6 +7,12 @@ Developed an interactive Tableau dashboard analysing British Airways passenger r
 
 ![image alt](https://github.com/ST-AMEAN/BA-Review_Tableau/blob/e0101fbf55344c258f41b4e028f8c0c95eff5aa6/BA_dashboard_preview.png)
 
+### Live Dashboard
+
+🔗 **Tableau Public Dashboard**
+
+https://public.tableau.com/app/profile/st.amean/viz/BA_17156308210980/Dashboard
+
 
 ## Business Problem
 Airlines rely heavily on customer feedback to evaluate service quality and identify improvement opportunities. However, large volumes of review data can make it difficult to understand key drivers of customer satisfaction.
