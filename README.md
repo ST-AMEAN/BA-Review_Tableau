@@ -5,6 +5,9 @@
 Developed an interactive Tableau dashboard analysing British Airways passenger reviews from 2016–2023. The dashboard provides a dynamic exploration of trends in customer satisfaction, segmented by demographics and geographic specifics. It features key performance metrics such as service quality, overall satisfaction, and value for money. Interactive elements allow users to filter data based on year, region, and type of flight, offering a customizable analysis experience.
 
 
+![image alt](https://github.com/ST-AMEAN/BA-Review_Tableau/blob/e0101fbf55344c258f41b4e028f8c0c95eff5aa6/BA_dashboard_preview.png)
+
+
 ## Business Problem
 Airlines rely heavily on customer feedback to evaluate service quality and identify improvement opportunities. However, large volumes of review data can make it difficult to understand key drivers of customer satisfaction.
 This project aims to transform passenger review data into an interactive business intelligence dashboard that supports data-driven decision-making and customer experience analysis.
